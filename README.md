@@ -29,3 +29,4 @@ To contribute to the repository, you can submit a pull request to the repository
 This project would not be as amazing without the existence of PKHeX.
 
 - [@kwsch](https://github.com/kwsch) for providing the IPlugin interface in PKHeX, which allows loading of this project's Plugin DLL files. Also for the support provided in the support server.
+- [architdate (thecommondude)](https://github.com/architdate) for providing a great repo and plugin, [Auto-Legality-Mod](https://github.com/architdate/PKHeX-Auto-Legality-Mod), that I was able to use as an example to try my hand at this.
