@@ -11,7 +11,7 @@ To use the plugins:
 - Create a folder named `plugins` in the same directory as PKHeX.exe.
 - Put the compiled plugins from this project in the `plugins` folder. 
 - Start PKHeX.exe.
-- The plugins should be available for use in `Tools > Met/Egg Date Randomizer` drop-down menu.
+- The plugins should be available for use in `Tools > Pokémon Date Randomizer` drop-down menu.
 
 ## Support Server
 While this plugin doesn't have a Discord server itself, PKHeX has one. Feel free to come chat:
